@@ -1,0 +1,15 @@
+.image {
+    width: 150px;
+    height: 150px;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5 {
+    visibility: hidden;
+}
+
+.box-button {
+    padding-left: 500px;
+}
